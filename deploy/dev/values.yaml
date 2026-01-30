@@ -1,6 +1,6 @@
 replicaCount: 2
 image:
-  repository: public.ecr.aws/w0f5g4k6/hello-svc
+  repository: public.ecr.aws/j9e2f6x4/hello-svc
   pullPolicy: IfNotPresent
   tag: e66021cc11b2d79c7d8d4d817de66e41cab3a890
 service:

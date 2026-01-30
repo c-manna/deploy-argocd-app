@@ -14,7 +14,7 @@ spec:
       selfHeal: true
   sources:
     # Source 1: values repo
-  - repoURL: https://github.com/devops4solutions/deploy-argocd-app.git
+  - repoURL: https://github.com/c-manna/deploy-argocd-app.git
     targetRevision: main
     ref: values
     # Source 2: Helm chart in Git repo
