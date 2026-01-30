@@ -18,7 +18,7 @@ spec:
     targetRevision: main
     ref: values
     # Source 2: Helm chart in Git repo
-  - repoURL: https://devops4solutions.github.io/springboot-helm-chart/
+  - repoURL: https://github.com/c-manna/springboot-helm-chart.git/
     chart: springboot
     targetRevision: 0.1.5
     helm:
